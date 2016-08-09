@@ -1,4 +1,3 @@
-layout_spectrum: 0.6214218968525529
 typography_spectrum: 0.10332324868068099
 color:
   brandStrength: 0.9811838499736041
@@ -11,5 +10,9 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.6214218968525529
 name: pushforjarly
 title: Coffee and Treats On Demand
+description: |
+  msms 
+  smsmeht
